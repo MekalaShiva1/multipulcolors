@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}  
+table {
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 60px;
+    
+    
+}
+
+.grey{
+    background-color: grey;
+} 
+
+.tamato{
+    background-color: tomato;
+}
+
+.yellogreen{
+    background-color: yellowgreen;
+} 
+
+.blue{
+
+    background-color: blue;
+} 
+
+.marron{
+    background-color: maroon;
+}
+ 
+.pink{
+    background-color: pink;
+} 
+
+
+.khaki{
+    background-color: khaki;
+} 
+
+.rayalblue{
+    background-color: royalblue;
+} 
+
+.gold{
+    background-color: gold;
+} 
+
+.deeppink{
+
+    background-color: deeppink;
+} 
+
+
+.bisque{
+
+    background-color: bisque;
+} 
+
+
+.goldennerered{
+    background-color: goldenrod;
+} 
+
+.orange{
+    background-color: orange;
+} 
+
+.darekgreen{
+    background-color: darkgreen;
+} 
+
+.brown{
+    background-color: brown;
+} 
+
+.lavender{
+    background-color: lavender;
+} 
+
+.bluevilolet{
+    background-color: blueviolet;
+} 
+
+.green{
+    background-color: green;
+}
